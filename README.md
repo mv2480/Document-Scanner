@@ -24,7 +24,7 @@ In this project we will first detect the color of the Document using masking tec
 ---
 
 ## Output
-
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/60354122/97114329-e80f4900-1715-11eb-8a46-4d5eb1a00825.gif)
 
 ---
 
